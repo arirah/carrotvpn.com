@@ -119,7 +119,7 @@ Read articles about VPNs, online privacy, internet security, public Wi-Fi protec
 
 ### Android App
 
-**[Carrot VPN on Google Play](https://play.google.com/)**
+**[Carrot VPN on Google Play]([https://play.google.com/](https://play.google.com/store/apps/details?id=com.vinnorokom.carrotvpn))**
 
 Download Carrot VPN for Android and protect your internet connection with a simple one-tap VPN.
 
